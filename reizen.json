@@ -6,7 +6,7 @@
         "duration": 7,
         "active": true,
         "startDate": "2024-05-20",
-        "image": "https://example.com/tokyo.jpg",
+        "image": "https://github.com/ToonPanis/Milestone-ToonPanis/blob/616669f20a681e163fcc0f40fa8fa117f76d6bdb/images/pexels-aleksandar-pasaric-2506923.jpg",
         "status": "planned",
         "activities": ["visit temples", "explore neighborhoods", "try local cuisine"],
         "accommodation": {
@@ -24,7 +24,7 @@
         "duration": 5,
         "active": true,
         "startDate": "2024-09-10",
-        "image": "https://example.com/machu-picchu.jpg",
+        "image": "https://github.com/ToonPanis/Milestone-ToonPanis/blob/616669f20a681e163fcc0f40fa8fa117f76d6bdb/images/pexels-eddie-kiszka-16973650.jpg",
         "status": "planned",
         "activities": ["hike the Inca Trail", "explore the ruins", "enjoy breathtaking views"],
         "accommodation": {
@@ -42,7 +42,7 @@
         "duration": 4,
         "active": true,
         "startDate": "2024-07-15",
-        "image": "https://example.com/paris.jpg",
+        "image": "https://github.com/ToonPanis/Milestone-ToonPanis/blob/616669f20a681e163fcc0f40fa8fa117f76d6bdb/images/pexels-pixabay-2363.jpg",
         "status": "planned",
         "activities": ["visit the Eiffel Tower", "explore the Louvre Museum", "take a Seine River cruise"],
         "accommodation": {
@@ -60,7 +60,7 @@
         "duration": 10,
         "active": true,
         "startDate": "2024-08-20",
-        "image": "https://example.com/bali.jpg",
+        "image": "https://github.com/ToonPanis/Milestone-ToonPanis/blob/616669f20a681e163fcc0f40fa8fa117f76d6bdb/images/pexels-guillaume-meurice-1544351.jpg",
         "status": "planned",
         "activities": ["surfing", "visit Ubud Monkey Forest", "explore temples"],
         "accommodation": {
@@ -78,7 +78,7 @@
         "duration": 6,
         "active": true,
         "startDate": "2024-09-30",
-        "image": "https://example.com/rome.jpg",
+        "image": "https://github.com/ToonPanis/Milestone-ToonPanis/blob/616669f20a681e163fcc0f40fa8fa117f76d6bdb/images/pexels-davi-pimentel-2064827.jpg",
         "status": "planned",
         "activities": ["explore the Colosseum", "visit Vatican City", "enjoy gelato"],
         "accommodation": {
@@ -97,7 +97,7 @@
         "duration": 8,
         "active": true,
         "startDate": "2024-10-15",
-        "image": "https://example.com/santorini.jpg",
+        "image": "https://github.com/ToonPanis/Milestone-ToonPanis/blob/616669f20a681e163fcc0f40fa8fa117f76d6bdb/images/pexels-jimmy-teoh-1010640.jpg",
         "status": "planned",
         "activities": ["explore Oia", "visit Red Beach", "take a boat tour to Nea Kameni"],
         "accommodation": {
@@ -115,7 +115,7 @@
         "duration": 12,
         "active": true,
         "startDate": "2025-01-05",
-        "image": "https://example.com/sydney.jpg",
+        "image": "https://github.com/ToonPanis/Milestone-ToonPanis/blob/616669f20a681e163fcc0f40fa8fa117f76d6bdb/images/pexels-rijan-hamidovic-2193300.jpg",
         "status": "planned",
         "activities": ["climb the Sydney Harbour Bridge", "visit Bondi Beach", "explore the Sydney Opera House"],
         "accommodation": {
@@ -133,7 +133,7 @@
         "duration": 9,
         "active": true,
         "startDate": "2025-03-20",
-        "image": "https://example.com/cape-town.jpg",
+        "image": "https://github.com/ToonPanis/Milestone-ToonPanis/blob/616669f20a681e163fcc0f40fa8fa117f76d6bdb/images/pexels-scott-webb-136721.jpg",
         "status": "planned",
         "activities": ["explore Table Mountain", "visit Robben Island", "take a wine tour in Stellenbosch"],
         "accommodation": {
@@ -152,7 +152,7 @@
         "duration": 7,
         "active": true,
         "startDate": "2025-02-20",
-        "image": "https://example.com/rio.jpg",
+        "image": "https://github.com/ToonPanis/Milestone-ToonPanis/blob/616669f20a681e163fcc0f40fa8fa117f76d6bdb/images/pexels-photo-2559997.jpeg",
         "status": "planned",
         "activities": ["visit Christ the Redeemer", "relax at Copacabana Beach", "explore Tijuca National Park"],
         "accommodation": {
@@ -170,7 +170,7 @@
         "duration": 5,
         "active": true,
         "startDate": "2025-09-15",
-        "image": "https://github.com/ToonPanis/Milestone-ToonPanis/blob/main/images/pexels-aleksandar-pasaric-1386444.jpg#:~:text=pexels%2Daleksandar%2Dpasaric%2D1386444.jpg",
+        "image": "https://github.com/ToonPanis/Milestone-ToonPanis/blob/616669f20a681e163fcc0f40fa8fa117f76d6bdb/images/pexels-aleksandar-pasaric-1386444.jpg",
         "status": "planned",
         "activities": ["explore Park Güell", "visit Sagrada Família", "stroll along La Rambla"],
         "accommodation": {
@@ -188,7 +188,7 @@
         "duration": 5,
         "active": true,
         "startDate": "2025-06-20",
-        "image": "https://example.com/dubai.jpg",
+        "image": "https://github.com/ToonPanis/Milestone-ToonPanis/blob/616669f20a681e163fcc0f40fa8fa117f76d6bdb/images/pexels-mo-ismail-3763190.jpg",
         "status": "planned",
         "activities": ["visit Burj Khalifa", "explore Dubai Mall", "take a desert safari"],
         "accommodation": {
@@ -206,7 +206,7 @@
         "duration": 7,
         "active": true,
         "startDate": "2025-09-10",
-        "image": "https://example.com/reykjavik.jpg",
+        "image": "https://github.com/ToonPanis/Milestone-ToonPanis/blob/616669f20a681e163fcc0f40fa8fa117f76d6bdb/images/pexels-greta-soave-7349506.jpg",
         "status": "planned",
         "activities": ["explore the Golden Circle", "relax in the Blue Lagoon", "chase the Northern Lights"],
         "accommodation": {
@@ -224,7 +224,7 @@
         "duration": 4,
         "active": true,
         "startDate": "2025-11-15",
-        "image": "https://example.com/cusco.jpg",
+        "image": "https://github.com/ToonPanis/Milestone-ToonPanis/blob/616669f20a681e163fcc0f40fa8fa117f76d6bdb/images/pexels-julia-volk-5198285.jpg",
         "status": "planned",
         "activities": ["explore Plaza de Armas", "visit Sacsayhuamán", "take a city walking tour"],
         "accommodation": {
