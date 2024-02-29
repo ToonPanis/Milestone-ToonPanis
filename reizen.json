@@ -1,0 +1,238 @@
+[
+    {
+        "id": 1,
+        "destination": "Tokyo, Japan",
+        "description": "Experience the bustling streets and vibrant culture of Tokyo.",
+        "duration": 7,
+        "active": true,
+        "startDate": "2024-05-20",
+        "image": "https://example.com/tokyo.jpg",
+        "status": "planned",
+        "activities": ["visit temples", "explore neighborhoods", "try local cuisine"],
+        "accommodation": {
+            "id": 1,
+            "name": "Tokyo Hilton",
+            "rating": 4.5,
+            "image": "https://example.com/tokyo-hilton.jpg",
+            "address": "1-8-1 Nishi-Shinjuku, Shinjuku-ku, Tokyo 160-0023, Japan"
+        }
+    },
+    {
+        "id": 2,
+        "destination": "Machu Picchu, Peru",
+        "description": "Embark on a journey to the ancient ruins of Machu Picchu.",
+        "duration": 5,
+        "active": true,
+        "startDate": "2024-09-10",
+        "image": "https://example.com/machu-picchu.jpg",
+        "status": "planned",
+        "activities": ["hike the Inca Trail", "explore the ruins", "enjoy breathtaking views"],
+        "accommodation": {
+            "id": 2,
+            "name": "Machu Picchu Pueblo Hotel",
+            "rating": 4.8,
+            "image": "https://example.com/machu-picchu-hotel.jpg",
+            "address": "Pueblo de Machu Picchu, Aguas Calientes 08681, Peru"
+        }
+    },
+    {
+        "id": 3,
+        "destination": "Paris, France",
+        "description": "Discover the romance and charm of Paris.",
+        "duration": 4,
+        "active": true,
+        "startDate": "2024-07-15",
+        "image": "https://example.com/paris.jpg",
+        "status": "planned",
+        "activities": ["visit the Eiffel Tower", "explore the Louvre Museum", "take a Seine River cruise"],
+        "accommodation": {
+            "id": 3,
+            "name": "Hotel Le Meurice",
+            "rating": 4.7,
+            "image": "https://example.com/le-meurice.jpg",
+            "address": "228 Rue de Rivoli, 75001 Paris, France"
+        }
+    },
+    {
+        "id": 4,
+        "destination": "Bali, Indonesia",
+        "description": "Relax on beautiful beaches and experience Balinese culture.",
+        "duration": 10,
+        "active": true,
+        "startDate": "2024-08-20",
+        "image": "https://example.com/bali.jpg",
+        "status": "planned",
+        "activities": ["surfing", "visit Ubud Monkey Forest", "explore temples"],
+        "accommodation": {
+            "id": 4,
+            "name": "Four Seasons Resort Bali at Sayan",
+            "rating": 4.9,
+            "image": "https://example.com/four-seasons-bali.jpg",
+            "address": "Sayan, Ubud, Gianyar, Bali 80571, Indonesia"
+        }
+    },
+    {
+        "id": 5,
+        "destination": "Rome, Italy",
+        "description": "Immerse yourself in ancient history and delicious cuisine in Rome.",
+        "duration": 6,
+        "active": true,
+        "startDate": "2024-09-30",
+        "image": "https://example.com/rome.jpg",
+        "status": "planned",
+        "activities": ["explore the Colosseum", "visit Vatican City", "enjoy gelato"],
+        "accommodation": {
+            "id": 5,
+            "name": "Hotel Eden",
+            "rating": 4.6,
+            "image": "https://example.com/hotel-eden.jpg",
+            "address": "Via Ludovisi, 49, 00187 Roma RM, Italy"
+        }
+    },
+
+    {
+        "id": 6,
+        "destination": "Santorini, Greece",
+        "description": "Experience breathtaking sunsets and stunning views of the Aegean Sea.",
+        "duration": 8,
+        "active": true,
+        "startDate": "2024-10-15",
+        "image": "https://example.com/santorini.jpg",
+        "status": "planned",
+        "activities": ["explore Oia", "visit Red Beach", "take a boat tour to Nea Kameni"],
+        "accommodation": {
+            "id": 6,
+            "name": "Katikies Hotel",
+            "rating": 4.9,
+            "image": "https://example.com/katikies-hotel.jpg",
+            "address": "Oia, Santorini, 84702, Greece"
+        }
+    },
+    {
+        "id": 7,
+        "destination": "Sydney, Australia",
+        "description": "Discover iconic landmarks and enjoy the laid-back Aussie lifestyle.",
+        "duration": 12,
+        "active": true,
+        "startDate": "2025-01-05",
+        "image": "https://example.com/sydney.jpg",
+        "status": "planned",
+        "activities": ["climb the Sydney Harbour Bridge", "visit Bondi Beach", "explore the Sydney Opera House"],
+        "accommodation": {
+            "id": 7,
+            "name": "Park Hyatt Sydney",
+            "rating": 4.8,
+            "image": "https://example.com/park-hyatt-sydney.jpg",
+            "address": "7 Hickson Road, The Rocks, Sydney NSW 2000, Australia"
+        }
+    },
+    {
+        "id": 8,
+        "destination": "Cape Town, South Africa",
+        "description": "Experience stunning natural beauty and vibrant cultural diversity.",
+        "duration": 9,
+        "active": true,
+        "startDate": "2025-03-20",
+        "image": "https://example.com/cape-town.jpg",
+        "status": "planned",
+        "activities": ["explore Table Mountain", "visit Robben Island", "take a wine tour in Stellenbosch"],
+        "accommodation": {
+            "id": 8,
+            "name": "One&Only Cape Town",
+            "rating": 4.7,
+            "image": "https://example.com/one-and-only-cape-town.jpg",
+            "address": "Dock Rd, Victoria & Alfred Waterfront, Cape Town, 8001, South Africa"
+        }
+    },
+
+    {
+        "id": 9,
+        "destination": "Rio de Janeiro, Brazil",
+        "description": "Experience the energy and excitement of Rio's Carnival and beautiful beaches.",
+        "duration": 7,
+        "active": true,
+        "startDate": "2025-02-20",
+        "image": "https://example.com/rio.jpg",
+        "status": "planned",
+        "activities": ["visit Christ the Redeemer", "relax at Copacabana Beach", "explore Tijuca National Park"],
+        "accommodation": {
+            "id": 10,
+            "name": "Belmond Copacabana Palace",
+            "rating": 4.7,
+            "image": "https://example.com/copacabana-palace.jpg",
+            "address": "Av. Atlântica, 1702 - Copacabana, Rio de Janeiro - RJ, 22021-001, Brazil"
+        }
+    },
+    {
+        "id": 10,
+        "destination": "Barcelona, Spain",
+        "description": "Immerse yourself in the vibrant culture and architecture of Barcelona.",
+        "duration": 5,
+        "active": true,
+        "startDate": "2025-09-15",
+        "image": "https://github.com/ToonPanis/Milestone-ToonPanis/blob/main/images/pexels-aleksandar-pasaric-1386444.jpg#:~:text=pexels%2Daleksandar%2Dpasaric%2D1386444.jpg",
+        "status": "planned",
+        "activities": ["explore Park Güell", "visit Sagrada Família", "stroll along La Rambla"],
+        "accommodation": {
+            "id": 11,
+            "name": "Hotel Arts Barcelona",
+            "rating": 4.6,
+            "image": "https://example.com/hotel-arts-barcelona.jpg",
+            "address": "Carrer de la Marina, 19-21, 08005 Barcelona, Spain"
+        }
+    },
+    {
+        "id": 11,
+        "destination": "Dubai, United Arab Emirates",
+        "description": "Experience luxury and modernity in the heart of the desert.",
+        "duration": 5,
+        "active": true,
+        "startDate": "2025-06-20",
+        "image": "https://example.com/dubai.jpg",
+        "status": "planned",
+        "activities": ["visit Burj Khalifa", "explore Dubai Mall", "take a desert safari"],
+        "accommodation": {
+            "id": 12,
+            "name": "Burj Al Arab Jumeirah",
+            "rating": 4.9,
+            "image": "https://example.com/burj-al-arab.jpg",
+            "address": "Jumeirah St - Dubai - United Arab Emirates"
+        }
+    },
+    {
+        "id": 12,
+        "destination": "Reykjavik, Iceland",
+        "description": "Discover stunning natural landscapes and the magical Northern Lights.",
+        "duration": 7,
+        "active": true,
+        "startDate": "2025-09-10",
+        "image": "https://example.com/reykjavik.jpg",
+        "status": "planned",
+        "activities": ["explore the Golden Circle", "relax in the Blue Lagoon", "chase the Northern Lights"],
+        "accommodation": {
+            "id": 13,
+            "name": "ION Adventure Hotel",
+            "rating": 4.7,
+            "image": "https://example.com/ion-adventure-hotel.jpg",
+            "address": "Nesjavellir, 801 Selfoss, Iceland"
+        }
+    },
+    {
+        "id": 13,
+        "destination": "Cusco, Peru",
+        "description": "Discover the ancient capital of the Inca Empire and gateway to Machu Picchu.",
+        "duration": 4,
+        "active": true,
+        "startDate": "2025-11-15",
+        "image": "https://example.com/cusco.jpg",
+        "status": "planned",
+        "activities": ["explore Plaza de Armas", "visit Sacsayhuamán", "take a city walking tour"],
+        "accommodation": {
+            "id": 14,
+            "name": "Palacio del Inka, a Luxury Collection Hotel",
+            "rating": 4.8,
+            "image": "https://example.com/palacio-del-inka.jpg",
+            "address": "Plazoleta Santo Domingo No 259, Cusco, Peru"
+        }
+    }
+]
