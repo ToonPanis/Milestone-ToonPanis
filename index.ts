@@ -1,56 +1,97 @@
 import readline from 'readline-sync';
-import { Accommodation, Travel } from './interfaces';
+import * as fs from 'fs';
+import { Accommodatie, Reis } from './interfaces';
 
+let reizen: Reis[] = [];
+function gegevensLaden(): void {
+    // Laden van reizen
+const jsonDataReizen = fs.readFileSync('reizen.json', 'utf-8');
+reizen = JSON.parse(jsonDataReizen);
 
+// Laden van accommodaties
+const jsonDataAccommodaties = fs.readFileSync('accommodaties.json', 'utf-8');
+const accommodaties: Accommodatie[] = JSON.parse(jsonDataAccommodaties);
 
-
-
-// Definieer een array met JSON-gegevens van reizen
-const travelData: any[] = [
-    {
-        "id": 1,
-        "destination": "Tokyo, Japan",
-        "description": "Experience the bustling streets and vibrant culture of Tokyo.",
-        "duration": 7,
-        "active": true,
-        "startDate": "2024-05-20",
-        "image": "https://github.com/ToonPanis/Milestone-ToonPanis/blob/616669f20a681e163fcc0f40fa8fa117f76d6bdb/images/pexels-aleksandar-pasaric-2506923.jpg",
-        "status": "planned",
-        "activities": ["visit temples", "explore neighborhoods", "try local cuisine"],
-        "accommodation": {
-            "id": 1,
-            "name": "Tokyo Hilton",
-            "rating": 4.5,
-            "image": "https://example.com/tokyo-hilton.jpg",
-            "address": "1-8-1 Nishi-Shinjuku, Shinjuku-ku, Tokyo 160-0023, Japan"
-        }
+// Voor elke reis, zoek de bijbehorende accommodatie op basis van accommodatieId
+reizen.forEach((reis) => {
+    const accommodatie = accommodaties.find((acc) => acc.id === reis.accommodatie.id);
+    if (accommodatie) {
+        reis.accommodatie = accommodatie;
+    } else {
+        console.log(`Geen accommodatie gevonden voor reis met ID ${reis.id}`);
     }
-    
-];
-
-// Map de JSON-gegevens naar reisobjecten
-const travels: Travel[] = travelData.map((data) => {
-    const accommodation: Accommodation = {
-        id: data.accommodation.id,
-        name: data.accommodation.name,
-        rating: data.accommodation.rating,
-        image: data.accommodation.image,
-        address: data.accommodation.address,
-    };
-
-    return {
-        id: data.id,
-        destination: data.destination,
-        description: data.description,
-        duration: data.duration,
-        active: data.active,
-        startDate: data.startDate,
-        image: data.image,
-        status: data.status,
-        activities: data.activities,
-        accommodation: accommodation,
-    };
 });
 
-// Log de reisobjecten
-console.log(travels);
+}
+
+
+function alleGegevensBekijken(): void {
+    reizen.forEach((reis) => {
+        printReis(reis);
+    });
+}
+
+function filterenOpID(id: number): void {
+    const reis = reizen.find((r) => r.id === id);
+    if (reis) {
+        printReis(reis);
+    } else {
+        console.log('Geen reis gevonden met het opgegeven ID.\n');
+    }
+}
+
+function printReis(reis: Reis): void {
+    console.log(`\n- Reis ID: ${reis.id}`);
+    console.log(`  - Bestemming: ${reis.bestemming}`);
+    console.log(`  - Omschrijving: ${reis.omschrijving}`);
+    console.log(`  - Duur: ${reis.duur} dagen`);
+    console.log(`  - Betaald: ${reis.betaald}`);
+    console.log(`  - Startdatum: ${reis.startDatum}`);
+    console.log(`  - Afbeelding: ${reis.afbeelding}`);
+    console.log(`  - Status: ${reis.status}`);
+    console.log(`  - Activiteiten: ${reis.activiteiten.join(', ')}`);
+    
+    // Controleer of accommodatie bestaat voordat toegang te krijgen tot de eigenschappen
+    if (reis.accommodatie) {
+        console.log(`  - Accommodatie: `);
+        console.log(`    - Naam: ${reis.accommodatie.naam}`);
+        console.log(`    - Beoordeling: ${reis.accommodatie.beoordeling}`);
+        console.log(`    - Adres: ${reis.accommodatie.adres}`);
+    } else {
+        console.log(`  - Accommodatie: Geen accommodatiegegevens beschikbaar`);
+    }
+}
+
+
+
+function gebruikerPrompt(): void {
+    console.log('Welkom bij de JSON-gegevensviewer!\n');
+    console.log('1. Alle gegevens bekijken');
+    console.log('2. Filteren op ID');
+    console.log('3. Afsluiten\n');
+
+    const keuze = readline.question('Voer uw keuze in: ');
+
+    switch (keuze) {
+        case '1':
+            alleGegevensBekijken();
+            gebruikerPrompt();
+            break;
+        case '2':
+            const id = readline.question('Voer het ID in waarop u wilt filteren: ');
+            filterenOpID(parseInt(id));
+            gebruikerPrompt();
+            break;
+        case '3':
+            console.log('Afsluiten...');
+            break;
+        default:
+            console.log('Ongeldige keuze. Voer een geldige optie in.\n');
+            gebruikerPrompt();
+            break;
+    }
+}
+
+gegevensLaden();
+gebruikerPrompt();
+3

@@ -1,20 +1,20 @@
-export interface Accommodation {
+export interface Accommodatie {
     id: number;
-    name: string;
-    rating: number;
-    image: string;
-    address: string;
+    naam: string;
+    beoordeling: number;
+    afbeelding: string;
+    adres: string;
 }
 
-export interface Travel {
+export interface Reis {
     id: number;
-    destination: string;
-    description: string;
-    duration: number;
-    active: boolean;
-    startDate: string;
-    image: string;
+    bestemming: string;
+    omschrijving: string;
+    duur: number;
+    betaald: boolean;
+    startDatum: string;
+    afbeelding: string;
     status: string;
-    activities: string[];
-    accommodation: Accommodation;
+    activiteiten: string[];
+    accommodatie: Accommodatie;
 }
