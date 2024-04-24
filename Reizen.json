@@ -1,6 +1,6 @@
 [
     {
-        "id": 1,
+        "id": "101",
         "bestemming": "Tokio, Japan",
         "omschrijving": "Ervaar de bruisende straten en levendige cultuur van Tokio.",
         "duur": 7,
@@ -16,7 +16,7 @@
     }
     ,
     {
-        "id": 2,
+        "id": "102",
         "bestemming": "Machu Picchu, Peru",
         "omschrijving": "Maak een reis naar de oude ruïnes van Machu Picchu.",
         "duur": 5,
@@ -30,7 +30,7 @@
         }
     },
     {
-        "id": 3,
+        "id": "103",
         "bestemming": "Parijs, Frankrijk",
         "omschrijving": "Ontdek de romantiek en charme van Parijs.",
         "duur": 4,
@@ -44,7 +44,7 @@
         }
     },
     {
-        "id": 4,
+        "id": "104",
         "bestemming": "Bali, Indonesië",
         "omschrijving": "Ontspan op prachtige stranden en ervaar de Balinese cultuur.",
         "duur": 10,
@@ -58,7 +58,7 @@
         }
     },
     {
-        "id": 5,
+        "id": "105",
         "bestemming": "Rome, Italië",
         "omschrijving": "Onderdompelen in de oude geschiedenis en heerlijke keuken in Rome.",
         "duur": 6,
@@ -72,7 +72,7 @@
         }
     },
     {
-        "id": 6,
+        "id": "106",
         "bestemming": "Santorini, Griekenland",
         "omschrijving": "Ervaar adembenemende zonsondergangen en prachtig uitzicht op de Egeïsche Zee.",
         "duur": 8,
@@ -86,7 +86,7 @@
         }
     },
     {
-        "id": 7,
+        "id": "107",
         "bestemming": "Sydney, Australië",
         "omschrijving": "Ontdek iconische bezienswaardigheden en geniet van de relaxte Australische levensstijl.",
         "duur": 12,
@@ -100,7 +100,7 @@
         }
     },
     {
-        "id": 8,
+        "id": "108",
         "bestemming": "Kaapstad, Zuid-Afrika",
         "omschrijving": "Ervaar de prachtige natuurlijke schoonheid en levendige culturele diversiteit.",
         "duur": 9,
@@ -115,7 +115,7 @@
     },
 
     {
-        "id": 9,
+        "id": "109",
         "bestemming": "Rio de Janeiro, Brazilië",
         "omschrijving": "Ervaar de energie en opwinding van het carnaval van Rio en de prachtige stranden.",
         "duur": 7,
@@ -129,7 +129,7 @@
         }
     },
     {
-        "id": 10,
+        "id": "110",
         "bestemming": "Barcelona, Spanje",
         "omschrijving": "Laat je onderdompelen in de levendige cultuur en architectuur van Barcelona.",
         "duur": 5,
@@ -143,7 +143,7 @@
         }
     },
     {
-        "id": 11,
+        "id": "111",
         "bestemming": "Dubai, Verenigde Arabische Emiraten",
         "omschrijving": "Ervaar luxe en moderniteit in het hart van de woestijn.",
         "duur": 5,
@@ -157,7 +157,7 @@
         }
     },
     {
-        "id": 12,
+        "id": "112",
         "bestemming": "Reykjavik, IJsland",
         "omschrijving": "Ontdek prachtige natuurlijke landschappen en het magische Noorderlicht.",
         "duur": 7,
@@ -171,7 +171,7 @@
         }
     },
     {
-        "id": 13,
+        "id": "113",
         "bestemming": "Cusco, Peru",
         "omschrijving": "Ontdek de oude hoofdstad van het Inca-rijk en toegangspoort tot Machu Picchu.",
         "duur": 4,
