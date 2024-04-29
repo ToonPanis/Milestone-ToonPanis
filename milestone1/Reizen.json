@@ -7,7 +7,7 @@
         "betaald": true,
         "prijs": 2100,
         "startDatum": "2024-05-20",
-        "afbeelding": "https://github.com/ToonPanis/Milestone-ToonPanis/blob/616669f20a681e163fcc0f40fa8fa117f76d6bdb/images/pexels-aleksandar-pasaric-2506923.jpg",
+        "afbeelding": "https://raw.githubusercontent.com/ToonPanis/Milestone-ToonPanis/main/milestone1/images/pexels-aleksandar-pasaric-2506923.jpg",
         "status": "gepland",
         "activiteiten": ["tempels bezoeken", "buurten verkennen", "lokale keuken uitproberen"],
         "accommodatie": {
@@ -24,7 +24,7 @@
         "betaald": true,
         "prijs": 2000,
         "startDatum": "2024-09-10",
-        "afbeelding": "https://github.com/ToonPanis/Milestone-ToonPanis/blob/616669f20a681e163fcc0f40fa8fa117f76d6bdb/images/pexels-eddie-kiszka-16973650.jpg",
+        "afbeelding": "https://raw.githubusercontent.com/ToonPanis/Milestone-ToonPanis/main/milestone1/images/pexels-eddie-kiszka-16973650.jpg",
         "status": "gepland",
         "activiteiten": ["de Inca Trail wandelen", "de ruïnes verkennen", "genieten van adembenemende uitzichten"],
         "accommodatie": {
@@ -39,7 +39,7 @@
         "betaald": true,
         "prijs": 1900,
         "startDatum": "2024-07-15",
-        "afbeelding": "https://github.com/ToonPanis/Milestone-ToonPanis/blob/616669f20a681e163fcc0f40fa8fa117f76d6bdb/images/pexels-pixabay-2363.jpg",
+        "afbeelding": "https://raw.githubusercontent.com/ToonPanis/Milestone-ToonPanis/main/milestone1/images/pexels-pixabay-2363.jpg",
         "status": "gepland",
         "activiteiten": ["de Eiffeltoren bezoeken", "het Louvre Museum verkennen", "een cruise maken op de Seine"],
         "accommodatie": {
@@ -54,7 +54,7 @@
         "betaald": false,
         "prijs": 2150,
         "startDatum": "2024-08-20",
-        "afbeelding": "https://github.com/ToonPanis/Milestone-ToonPanis/blob/616669f20a681e163fcc0f40fa8fa117f76d6bdb/images/pexels-guillaume-meurice-1544351.jpg",
+        "afbeelding": "https://raw.githubusercontent.com/ToonPanis/Milestone-ToonPanis/main/milestone1/images/pexels-guillaume-meurice-1544351.jpg",
         "status": "gepland",
         "activiteiten": ["surfen", "bezoek Ubud Monkey Forest", "verken tempels"],
         "accommodatie": {
@@ -69,7 +69,7 @@
         "betaald": true,
         "prijs": 1200,
         "startDatum": "2024-09-30",
-        "afbeelding": "https://github.com/ToonPanis/Milestone-ToonPanis/blob/616669f20a681e163fcc0f40fa8fa117f76d6bdb/images/pexels-davi-pimentel-2064827.jpg",
+        "afbeelding": "https://raw.githubusercontent.com/ToonPanis/Milestone-ToonPanis/main/milestone1/images/pexels-davi-pimentel-2064827.jpg",
         "status": "gepland",
         "activiteiten": ["het Colosseum verkennen", "bezoek Vaticaanstad", "geniet van gelato"],
         "accommodatie": {
@@ -84,7 +84,7 @@
         "betaald": true,
         "prijs": 2800,
         "startDatum": "2024-10-15",
-        "afbeelding": "https://github.com/ToonPanis/Milestone-ToonPanis/blob/616669f20a681e163fcc0f40fa8fa117f76d6bdb/images/pexels-jimmy-teoh-1010640.jpg",
+        "afbeelding": "https://raw.githubusercontent.com/ToonPanis/Milestone-ToonPanis/main/milestone1/images/pexels-jimmy-teoh-1010640.jpg",
         "status": "gepland",
         "activiteiten": ["verken Oia", "bezoek Red Beach", "maak een boottocht naar Nea Kameni"],
         "accommodatie": {
@@ -99,7 +99,7 @@
         "betaald": true,
         "prijs":3200,
         "startDatum": "2025-01-05",
-        "afbeelding": "https://github.com/ToonPanis/Milestone-ToonPanis/blob/616669f20a681e163fcc0f40fa8fa117f76d6bdb/images/pexels-rijan-hamidovic-2193300.jpg",
+        "afbeelding": "https://raw.githubusercontent.com/ToonPanis/Milestone-ToonPanis/main/milestone1/images/pexels-rijan-hamidovic-2193300.jpg",
         "status": "gepland",
         "activiteiten": ["beklim de Sydney Harbour Bridge", "bezoek Bondi Beach", "verken het Sydney Opera House"],
         "accommodatie": {
@@ -114,7 +114,7 @@
         "betaald": true,
         "prijs": 2300,
         "startDatum": "2025-03-20",
-        "afbeelding": "https://github.com/ToonPanis/Milestone-ToonPanis/blob/616669f20a681e163fcc0f40fa8fa117f76d6bdb/images/pexels-scott-webb-136721.jpg",
+        "afbeelding": "https://raw.githubusercontent.com/ToonPanis/Milestone-ToonPanis/main/milestone1/images/pexels-scott-webb-136721.jpg",
         "status": "gepland",
         "activiteiten": ["verken de Tafelberg", "bezoek Robbeneiland", "maak een wijntour in Stellenbosch"],
         "accommodatie": {
@@ -130,7 +130,7 @@
         "betaald": false,
         "prijs": 2000,
         "startDatum": "2025-02-20",
-        "afbeelding": "https://github.com/ToonPanis/Milestone-ToonPanis/blob/616669f20a681e163fcc0f40fa8fa117f76d6bdb/images/pexels-photo-2559997.jpeg",
+        "afbeelding": "https://raw.githubusercontent.com/ToonPanis/Milestone-ToonPanis/main/milestone1/images/pexels-photo-2559997.jpeg",
         "status": "gepland",
         "activiteiten": ["bezoek Christus de Verlosser", "ontspan op Copacabana Beach", "verken het Nationaal Park Tijuca"],
         "accommodatie": {
@@ -160,7 +160,7 @@
         "betaald": true,
         "prijs": 2900,
         "startDatum": "2025-06-20",
-        "afbeelding": "https://github.com/ToonPanis/Milestone-ToonPanis/blob/616669f20a681e163fcc0f40fa8fa117f76d6bdb/images/pexels-mo-ismail-3763190.jpg",
+        "afbeelding": "https://raw.githubusercontent.com/ToonPanis/Milestone-ToonPanis/main/milestone1/images/pexels-mo-ismail-3763190.jpg",
         "status": "gepland",
         "activiteiten": ["bezoek de Burj Khalifa", "verken de Dubai Mall", "maak een woestijnsafari"],
         "accommodatie": {
@@ -175,7 +175,7 @@
         "betaald": true,
         "prijs": 1100,
         "startDatum": "2025-09-10",
-        "afbeelding": "https://github.com/ToonPanis/Milestone-ToonPanis/blob/616669f20a681e163fcc0f40fa8fa117f76d6bdb/images/pexels-greta-soave-7349506.jpg",
+        "afbeelding": "https://raw.githubusercontent.com/ToonPanis/Milestone-ToonPanis/main/milestone1/images/pexels-greta-soave-7349506.jpg",
         "status": "gepland",
         "activiteiten": ["verken de Golden Circle", "ontspan in de Blue Lagoon", "jaag op het Noorderlicht"],
         "accommodatie": {
@@ -190,7 +190,7 @@
         "betaald": false,
         "prijs": 2700,
         "startDatum": "2025-11-15",
-        "afbeelding": "https://github.com/ToonPanis/Milestone-ToonPanis/blob/616669f20a681e163fcc0f40fa8fa117f76d6bdb/images/pexels-julia-volk-5198285.jpg",
+        "afbeelding": "https://raw.githubusercontent.com/ToonPanis/Milestone-ToonPanis/main/milestone1/images/pexels-julia-volk-5198285.jpg",
         "status": "gepland",
         "activiteiten": ["verken Plaza de Armas", "bezoek Sacsayhuamán", "maak een stadswandeling"],
         "accommodatie": {
