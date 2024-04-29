@@ -145,7 +145,7 @@
         "betaald": true,
         "prijs": 1800,
         "startDatum": "2025-09-15",
-        "afbeelding": "https://github.com/ToonPanis/Milestone-ToonPanis/blob/616669f20a681e163fcc0f40fa8fa117f76d6bdb/images/pexels-aleksandar-pasaric-1386444.jpg",
+        "afbeelding": "https://raw.githubusercontent.com/ToonPanis/Milestone-ToonPanis/main/milestone1/images/pexels-aleksandar-pasaric-1386444.jpg",
         "status": "gepland",
         "activiteiten": ["verken Park Güell", "bezoek de Sagrada Família", "wandeling langs La Rambla"],
         "accommodatie": {
