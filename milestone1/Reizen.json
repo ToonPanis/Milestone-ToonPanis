@@ -10,10 +10,13 @@
         "afbeelding": "https://raw.githubusercontent.com/ToonPanis/Milestone-ToonPanis/main/milestone1/images/pexels-aleksandar-pasaric-2506923.jpg",
         "status": "gepland",
         "activiteiten": ["tempels bezoeken", "buurten verkennen", "lokale keuken uitproberen"],
-        "accommodatie": {
-            "id": 1
-        }
-        
+        "accommodatie": 
+            {
+                "id": 1,
+                "naam": "Tokyo Hilton",
+                "beoordeling": 4.5,
+                "adres": "1-8-1 Nishi-Shinjuku, Shinjuku-ku, Tokyo 160-0023, Japan"
+            }
     }
     ,
     {
