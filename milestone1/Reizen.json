@@ -25,7 +25,7 @@
         "prijs": 2000,
         "startDatum": "2024-09-10",
         "afbeelding": "https://raw.githubusercontent.com/ToonPanis/Milestone-ToonPanis/main/milestone1/images/pexels-eddie-kiszka-16973650.jpg",
-        "status": "gepland",
+        "status": "niet gepland",
         "activiteiten": ["de Inca Trail wandelen", "de ruïnes verkennen", "genieten van adembenemende uitzichten"],
         "accommodatie": {
             "id":2
