@@ -142,7 +142,7 @@
         "prijs": 2300,
         "startDatum": "2025-03-20",
         "afbeelding": "https://raw.githubusercontent.com/ToonPanis/Milestone-ToonPanis/main/milestone1/images/pexels-scott-webb-136721.jpg",
-        "status": "gepland",
+        "status": "niet gepland",
         "activiteiten": ["verken de Tafelberg", "bezoek Robbeneiland", "maak een wijntour in Stellenbosch"],
         "accommodatie": 
         {
@@ -200,7 +200,7 @@
         "prijs": 2900,
         "startDatum": "2025-06-20",
         "afbeelding": "https://raw.githubusercontent.com/ToonPanis/Milestone-ToonPanis/main/milestone1/images/pexels-mo-ismail-3763190.jpg",
-        "status": "gepland",
+        "status": "niet gepland",
         "activiteiten": ["bezoek de Burj Khalifa", "verken de Dubai Mall", "maak een woestijnsafari"],
         "accommodatie": 
         {
@@ -238,7 +238,7 @@
         "prijs": 2700,
         "startDatum": "2025-11-15",
         "afbeelding": "https://raw.githubusercontent.com/ToonPanis/Milestone-ToonPanis/main/milestone1/images/pexels-julia-volk-5198285.jpg",
-        "status": "gepland",
+        "status": "niet gepland",
         "activiteiten": ["verken Plaza de Armas", "bezoek Sacsayhuamán", "maak een stadswandeling"],
         "accommodatie": 
         {
