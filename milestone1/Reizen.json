@@ -12,7 +12,7 @@
         "activiteiten": ["tempels bezoeken", "buurten verkennen", "lokale keuken uitproberen"],
         "accommodatie": 
             {
-                "id": 1,
+                
                 "naam": "Tokyo Hilton",
                 "beoordeling": 4.5,
                 "adres": "1-8-1 Nishi-Shinjuku, Shinjuku-ku, Tokyo 160-0023, Japan"
@@ -32,7 +32,7 @@
         "activiteiten": ["de Inca Trail wandelen", "de ruïnes verkennen", "genieten van adembenemende uitzichten"],
         "accommodatie": 
         {
-            "id": 2,
+            
             "naam": "Machu Picchu Pueblo Hotel",
             "beoordeling": 4.8,
             "adres": "Pueblo de Machu Picchu, Aguas Calientes 08681, Peru"
