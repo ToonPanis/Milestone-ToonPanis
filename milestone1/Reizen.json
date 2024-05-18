@@ -12,7 +12,7 @@
         "activiteiten": ["tempels bezoeken", "buurten verkennen", "lokale keuken uitproberen"],
         "accommodatie": 
             {
-                
+                "id": 101,
                 "naam": "Tokyo Hilton",
                 "beoordeling": 4.5,
                 "adres": "1-8-1 Nishi-Shinjuku, Shinjuku-ku, Tokyo 160-0023, Japan"
@@ -32,7 +32,7 @@
         "activiteiten": ["de Inca Trail wandelen", "de ruïnes verkennen", "genieten van adembenemende uitzichten"],
         "accommodatie": 
         {
-            
+            "id": 102,
             "naam": "Machu Picchu Pueblo Hotel",
             "beoordeling": 4.8,
             "adres": "Pueblo de Machu Picchu, Aguas Calientes 08681, Peru"
@@ -51,7 +51,7 @@
         "activiteiten": ["de Eiffeltoren bezoeken", "het Louvre Museum verkennen", "een cruise maken op de Seine"],
         "accommodatie": 
         {
-            "id": 3,
+            "id": 103,
             "naam": "Hotel Le Meurice",
             "beoordeling": 4.7,
             "adres": "228 Rue de Rivoli, 75001 Parijs, Frankrijk"
@@ -70,7 +70,7 @@
         "activiteiten": ["surfen", "bezoek Ubud Monkey Forest", "verken tempels"],
         "accommodatie": 
         {
-            "id": 4,
+            "id": 104,
             "naam": "Four Seasons Resort Bali at Sayan",
             "beoordeling": 4.9,
             "adres": "Sayan, Ubud, Gianyar, Bali 80571, Indonesië"
@@ -89,7 +89,7 @@
         "activiteiten": ["het Colosseum verkennen", "bezoek Vaticaanstad", "geniet van gelato"],
         "accommodatie": 
         {
-            "id": 5,
+            "id": 105,
             "naam": "Hotel Eden",
             "beoordeling": 4.6,
             "adres": "Via Ludovisi, 49, 00187 Roma RM, Italië"
@@ -108,7 +108,7 @@
         "activiteiten": ["verken Oia", "bezoek Red Beach", "maak een boottocht naar Nea Kameni"],
         "accommodatie": 
         {
-            "id": 6,
+            "id": 106,
             "naam": "Katikies Hotel",
             "beoordeling": 4.9,
             "adres": "Oia, Santorini, 84702, Griekenland"
@@ -127,7 +127,7 @@
         "activiteiten": ["beklim de Sydney Harbour Bridge", "bezoek Bondi Beach", "verken het Sydney Opera House"],
         "accommodatie": 
         {
-            "id": 7,
+            "id": 107,
             "naam": "Park Hyatt Sydney",
             "beoordeling": 4.8,
             "adres": "7 Hickson Road, The Rocks, Sydney NSW 2000, Australië"
@@ -146,7 +146,7 @@
         "activiteiten": ["verken de Tafelberg", "bezoek Robbeneiland", "maak een wijntour in Stellenbosch"],
         "accommodatie": 
         {
-            "id": 8,
+            "id": 108,
             "naam": "One&Only Cape Town",
             "beoordeling": 4.7,
             "adres": "Dock Rd, Victoria & Alfred Waterfront, Kaapstad, 8001, Zuid-Afrika"
@@ -166,7 +166,7 @@
         "activiteiten": ["bezoek Christus de Verlosser", "ontspan op Copacabana Beach", "verken het Nationaal Park Tijuca"],
         "accommodatie": 
         {
-            "id": 9,
+            "id": 109,
             "naam": "Belmond Copacabana Palace",
             "beoordeling": 4.7,
             "adres": "Av. Atlântica, 1702 - Copacabana, Rio de Janeiro - RJ, 22021-001, Brazilië"
@@ -185,7 +185,7 @@
         "activiteiten": ["verken Park Güell", "bezoek de Sagrada Família", "wandeling langs La Rambla"],
         "accommodatie": 
         {
-            "id": 10,
+            "id": 101,
             "naam": "Hotel Arts Barcelona",
             "beoordeling": 4.6,
             "adres": "Carrer de la Marina, 19-21, 08005 Barcelona, Spanje"
@@ -204,7 +204,7 @@
         "activiteiten": ["bezoek de Burj Khalifa", "verken de Dubai Mall", "maak een woestijnsafari"],
         "accommodatie": 
         {
-            "id": 11,
+            "id": 111,
             "naam": "Burj Al Arab Jumeirah",
             "beoordeling": 4.9,
             "adres": "Jumeirah St - Dubai - Verenigde Arabische Emiraten"
@@ -223,7 +223,7 @@
         "activiteiten": ["verken de Golden Circle", "ontspan in de Blue Lagoon", "jaag op het Noorderlicht"],
         "accommodatie": 
         {
-            "id": 12,
+            "id": 112,
             "naam": "ION Adventure Hotel",
             "beoordeling": 4.7,
             "adres": "Nesjavellir, 801 Selfoss, IJsland"
@@ -242,7 +242,7 @@
         "activiteiten": ["verken Plaza de Armas", "bezoek Sacsayhuamán", "maak een stadswandeling"],
         "accommodatie": 
         {
-            "id": 13,
+            "id": 113,
             "naam": "Palacio del Inka, a Luxury Collection Hotel",
             "beoordeling": 4.8,
             "adres": "Plazoleta Santo Domingo No 259, Cusco, Peru"
